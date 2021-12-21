@@ -25,4 +25,8 @@ print("\n")
 #swapping, becoming a tuple and gets unpacked
 a,b=b,a
 print(a,b)
+print("\n")
 
+#packing and unpacking is also applies for List and Tuple
+a,b=[b,a]
+print(a,b)
